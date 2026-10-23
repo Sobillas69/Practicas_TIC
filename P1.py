@@ -1,0 +1,11 @@
+print ("HOLA MUNDO")
+#Solicitar datos
+nombre=input("Ingresa tu nombre: ")
+edad=input("Ingresa tu edad: ")
+gradoEstudios=input("Ingresa tu grado de estudios: ")
+estadoCivil=input("Ingresa tu estado civil: ")
+numHermanos=int(input("Ingresa numero de hermanos: "))
+estatura=float(input("Ingresa tu estatura: "))
+peso=float(input("Ingresa tu peso en Kg: "))
+deporteFav=input("Ingresa tu deporte favorito: ")
+materiaFav=input("Ingresa tu materia favorita: ")
