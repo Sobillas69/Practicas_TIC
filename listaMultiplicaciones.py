@@ -11,3 +11,9 @@ for num in numeros:
     resultados.append(resultado)
 print("Números originales: ", numeros)
 print("Resultados: ", resultados)
+#EXTRA
+numBuscar=int(input("Escribe el número que buscas: "))
+if numBuscar in resultados:
+    print("Si esta el numero")
+else:
+    print("No esta el numero")
